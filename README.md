@@ -8,10 +8,10 @@ Please complete your proposal following the outline below.
 
 ### Authors
 
-Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu)
+Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu), Vitchayah Srisopaporn (sriv0124@uw.edu), 
 ### Date
 
-Winter 2023
+Spring 2024
 ## Abstract
 
 Our main question is, how does the amount of social media usage affect the users mental health? This question is important because with the recent rise of social media users increasing, and the age of users become younger, having a bad mental health at a younger age can hinder their growth in a bad way. We deicided to touch on this topic, since social media usage has increased over the years, and we believe it will only keep on increasing, leading to more people with mental health issues, and the people with issues getting younger. 
@@ -103,8 +103,8 @@ The data was found on Mendeley Data (https://data.mendeley.com/datasets/jxkcm7s6
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
-> 
-> Some possible implications of using this research are allowing technologists and designers to get a better understanding of how social media and screen time affect the mental health of the user. This might lead to figuring out a way to implement a better social media design that allows the user to engage with other people and enjoy their social media life by promoting mindful engagement, positivity, and diversity, but also limits their use to the right amount so it's not addictive and become harmful by developing activity tracker that encourages the user to take breaks and develop a healthy digital habit. This research can also inspire policymakers to establish new policies that allow for better ways to regulate these social media platforms to protect users from harmful or inappropriate content. They can also enact regulations that promote mental wellness by providing more accessible mental health resources and conducting surveys to measure the user. 
+
+Some possible implications of using this research are allowing technologists and designers to get a better understanding of how social media and screen time affect the mental health of the user. This might lead to figuring out a way to implement a better social media design that allows the user to engage with other people and enjoy their social media life by promoting mindful engagement, positivity, and diversity, but also limits their use to the right amount so it's not addictive and become harmful by developing activity tracker that encourages the user to take breaks and develop a healthy digital habit. This research can also inspire policymakers to establish new policies that allow for better ways to regulate these social media platforms to protect users from harmful or inappropriate content. They can also enact regulations that promote mental wellness by providing more accessible mental health resources and conducting surveys to measure the user. 
 
 5. Limitations & Challenges
 A challenge we might face in this data is that this data is not limited to location, so the dataset location is spread around and not a set data in a set location. We also are not sure what the mental health score implies, and the reports of people indicating their social media usage and mental health issue are a little broad, ranging from the description bad to excellent
