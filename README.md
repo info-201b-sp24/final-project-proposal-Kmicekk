@@ -4,11 +4,11 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+
 
 ### Authors
 
-Names of your team members and contact information (email addresses).
+Koh Micek (Kmicek@uw.edu), 
 ### Date
 
 Winter 2023
