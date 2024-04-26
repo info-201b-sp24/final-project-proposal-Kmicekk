@@ -26,6 +26,29 @@ No more than three sentences that summarize your project. Focus on the very most
 1. Introduction  
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+## Project Introduction: Climate Change Insights
+
+### Overview
+
+Climate change remains a pivotal challenge impacting both the natural and human-made environments on a global scale. Our project leverages the power of data analysis and web technologies to shed light on historical climate trends. By focusing on past data, we aim to build an interactive web application that allows users to explore how climate parameters have evolved over time and how these changes have influenced various ecosystems and human activities.
+
+### Research Questions
+
+1. **How have temperature patterns changed over the past century in various global regions?**
+   - **Motivation**: Historical temperature data reveal trends and anomalies over time. Understanding these patterns helps in assessing the extent and pace of climate change, providing a factual basis for environmental policy and individual awareness.
+
+2. **What trends in precipitation levels can be observed in the last 100 years, and how do these vary by region?**
+   - **Motivation**: Precipitation is a key factor in both ecological and agricultural productivity. Analyzing its historical data helps in understanding the impacts of climate change on water resources and food security, crucial for planning and adaptation strategies.
+
+3. **How have the frequencies and intensities of extreme weather events (like hurricanes and droughts) changed over the decades?**
+   - **Motivation**: Extreme weather events have immediate and severe impacts on infrastructure, ecosystems, and communities. By examining the changes in their frequencies and intensities, we can better prepare for and mitigate these events in the future.
+
+4. **What are the long-term trends in sea level rise, and how have they affected coastal communities?**
+   - **Motivation**: Rising sea levels pose a significant threat to coastal ecosystems and human settlements. Understanding the rate of rise and its effects can help in developing effective coastal management and evacuation plans.
+
+### Importance
+
+The questions we propose aim to deepen the understanding of how climate change has manifested historically, providing insights that are essential for effective policy making and community action. This project not only serves as an educational tool but also as a call to action, emphasizing the urgent need for collective efforts in combating climate change and mitigating its impacts.
 
 2. Related Work  
 
