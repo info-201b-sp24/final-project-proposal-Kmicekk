@@ -8,7 +8,7 @@ Please complete your proposal following the outline below.
 
 ### Authors
 
-Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu), Vitchayah Srisopaporn (sriv0124@uw.edu), 
+Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu), Vitchayah Srisopaporn (sriv0124@uw.edu), David Song (dsong3@uw.edu)
 ### Date
 
 Spring 2024
