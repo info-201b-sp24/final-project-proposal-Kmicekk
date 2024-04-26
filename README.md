@@ -52,6 +52,28 @@ The questions we propose aim to deepen the understanding of how climate change h
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
+## Topic Description: Historical Climate Change Analysis
+
+### Topic Overview
+
+Our project focuses on the analysis of historical climate data, examining changes in temperature, precipitation, and extreme weather events over the past century. Climate change is a multifaceted issue that influences numerous environmental, economic, and social sectors. By analyzing historical data, we aim to identify significant trends that can provide insights into the broader impacts of climate change.
+
+### Related Work
+
+Several researchers and organizations have previously conducted studies and developed projects analyzing various aspects of historical climate change data. These works form a foundation for our project, providing methodologies, datasets, and insights that we can draw upon.
+
+1. **NASA’s Climate Change and Global Warming website** provides a comprehensive overview of climate change data, including temperature and precipitation changes over time. It hosts an extensive collection of resources, including visual data and scientific reports, which are instrumental for public understanding and educational purposes (NASA, 2021).
+   - [NASA Climate Change](https://climate.nasa.gov/)
+
+2. **"Global Temperature Change" by James Hansen et al.** (2010) offers an in-depth analysis of global temperature trends over the last century, utilizing data from multiple international datasets. This paper has been crucial in understanding temperature fluctuations and the role of anthropogenic factors in climate change.
+   - Hansen, J., Ruedy, R., Sato, M., & Lo, K. (2010). Global temperature change. Proceedings of the National Academy of Sciences, 107(39), 17101-17106. [Link to paper](https://www.pnas.org/content/107/39/17101)
+
+3. **"Quantifying the Influence of Climate on Human Conflict" by Solomon Hsiang et al.** (2013), published in *Science*, explores the relationship between climate variables like temperature and precipitation with human conflict over historical periods. This research provides a unique perspective on how climate change impacts social structures and security.
+   - Hsiang, S. M., Burke, M., & Miguel, E. (2013). Quantifying the influence of climate on human conflict. Science, 341(6151). [Link to paper](https://science.sciencemag.org/content/341/6151/1235367)
+
+These sources underscore the relevance and urgency of studying historical climate data to better predict and mitigate the impacts of climate change. By building on these foundational studies, our project aims to provide a more interactive and user-friendly approach to understanding these complex issues.
+
+
 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source  
