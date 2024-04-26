@@ -20,7 +20,7 @@ Our main question is, how does the amount of social media usage affect the user'
 ## Keywords
 
 3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+Social media, mental health, age, gender, interation. 
 
 ## Proposal
 
