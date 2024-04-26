@@ -26,8 +26,6 @@ No more than three sentences that summarize your project. Focus on the very most
 1. Introduction  
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
-## Project Introduction: Climate Change Insights
-
 ### Overview
 
 Climate change remains a pivotal challenge impacting both the natural and human-made environments on a global scale. Our project leverages the power of data analysis and web technologies to shed light on historical climate trends. By focusing on past data, we aim to build an interactive web application that allows users to explore how climate parameters have evolved over time and how these changes have influenced various ecosystems and human activities.
