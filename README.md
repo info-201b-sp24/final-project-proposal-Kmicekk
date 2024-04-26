@@ -26,27 +26,34 @@ No more than three sentences that summarize your project. Focus on the very most
 1. Introduction  
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+
+## Project Introduction: Digital Behavior and Mental Health
+
 ### Overview
 
-Climate change remains a pivotal challenge impacting both the natural and human-made environments on a global scale. Our project leverages the power of data analysis and web technologies to shed light on historical climate trends. By focusing on past data, we aim to build an interactive web application that allows users to explore how climate parameters have evolved over time and how these changes have influenced various ecosystems and human activities.
+In the digital age, social media has become a central part of everyday life for millions of people around the world. While it offers unprecedented opportunities for communication and information sharing, there is growing concern about its impact on mental health. Our project aims to analyze user behavior on social media platforms and assess its correlation with various mental health outcomes. By leveraging data from surveys and digital usage metrics, we intend to create an interactive web application that visualizes these relationships and provides insights into how digital habits influence mental well-being.
 
 ### Research Questions
 
-1. **How have temperature patterns changed over the past century in various global regions?**
-   - **Motivation**: Historical temperature data reveal trends and anomalies over time. Understanding these patterns helps in assessing the extent and pace of climate change, providing a factual basis for environmental policy and individual awareness.
+1. **How does the amount of time spent on social media correlate with reported levels of anxiety and depression among different age groups?**
+   - **Motivation**: With rising screen time, understanding its impact on mental health can help in developing guidelines for healthier social media consumption.
+   - **Importance**: This question addresses public health concerns and can inform policy decisions regarding digital literacy and mental health support systems.
 
-2. **What trends in precipitation levels can be observed in the last 100 years, and how do these vary by region?**
-   - **Motivation**: Precipitation is a key factor in both ecological and agricultural productivity. Analyzing its historical data helps in understanding the impacts of climate change on water resources and food security, crucial for planning and adaptation strategies.
+2. **What are the effects of social media interactions (likes, shares, comments) on the self-esteem of individuals?**
+   - **Motivation**: Social validation is a significant aspect of social media usage; studying its effects on self-esteem can illuminate psychological impacts that may not be immediately apparent.
+   - **Importance**: Insights from this analysis can aid mental health professionals in creating interventions that help users maintain healthy relationships with digital platforms.
 
-3. **How have the frequencies and intensities of extreme weather events (like hurricanes and droughts) changed over the decades?**
-   - **Motivation**: Extreme weather events have immediate and severe impacts on infrastructure, ecosystems, and communities. By examining the changes in their frequencies and intensities, we can better prepare for and mitigate these events in the future.
+3. **Does the nature of content consumed (positive vs. negative news) on social media affect the user’s mood and mental health status?**
+   - **Motivation**: Exposure to different types of content could have varying impacts on mood, which in turn affects overall mental health.
+   - **Importance**: Understanding these dynamics can help in curating healthier digital environments.
 
-4. **What are the long-term trends in sea level rise, and how have they affected coastal communities?**
-   - **Motivation**: Rising sea levels pose a significant threat to coastal ecosystems and human settlements. Understanding the rate of rise and its effects can help in developing effective coastal management and evacuation plans.
+4. **Are there significant differences in mental health impacts between various social media platforms?**
+   - **Motivation**: Different platforms have different user experiences and content types, which might influence mental health differently.
+   - **Importance**: This question can guide users in choosing their digital environments more wisely and encourage platforms to modify features that may negatively affect mental health.
 
-### Importance
+### Significance
 
-The questions we propose aim to deepen the understanding of how climate change has manifested historically, providing insights that are essential for effective policy making and community action. This project not only serves as an educational tool but also as a call to action, emphasizing the urgent need for collective efforts in combating climate change and mitigating its impacts.
+This project will not only highlight key factors linking digital behavior to mental health but also empower users with knowledge to manage their digital interactions proactively. The insights derived from this study can be crucial for educators, policymakers, and mental health professionals as they develop more effective strategies to enhance digital well-being in society.
 
 2. Related Work  
 
