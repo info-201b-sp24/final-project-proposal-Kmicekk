@@ -98,7 +98,7 @@ These studies and articles provide a foundation for our research, offering insig
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
 5. Limitations & Challenges
->What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+A challenge we might face in this data is that this data is not limited to location, so the dataset location is spread around and not a set data in a set location. We also are not sure what the mental health score implies, and the reports of people indicating their social media usage and mental health issue are a little broad, ranging from the description bad to excellent
 
 Acknowledgements
 > Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
