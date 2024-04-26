@@ -8,7 +8,7 @@ Please complete your proposal following the outline below.
 
 ### Authors
 
-Koh Micek (Kmicek@uw.edu), 
+Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu)
 ### Date
 
 Winter 2023
