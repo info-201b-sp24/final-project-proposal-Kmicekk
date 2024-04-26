@@ -83,9 +83,10 @@ These studies and articles provide a foundation for our research, offering insig
 
 
 3. The Dataset
+
 The data was found on Mendeley Data (https://data.mendeley.com/datasets/jxkcm7s638/1). The data was collected by John Ngugi from the Kisii University College Faculty of Health Sciences. This data was collected through online surveys performed by the Kisii University College Faculty of Health Sciences throughout the campus. This survey was done to determine participant behaviors on the subjects of mental health and how much they use social media as well as a score of social media’s impact on mental health. There are 300 observations (rows) in the data. There are six features (columns) in the data corresponding to the number of respondents, age, gender, frequency of social media interaction, self-reported mental health score, and impact on mental health score. In terms of ethical questions or questions of power, one thing to consider is the fact that this data only considers two genders, male or female, in its data. This could mean that those who identify as someone other than those two genders were excluded from this data, making it exclusive and unrepresentative of the whole population. Another thing to consider is that surveys are vulnerable to response bias and may not be representative of the whole population since they only contain willing respondents. Some possible limitations or problems of the data are the lack of specific information and its scale. The frequency of social media interaction and self-reported mental health scores are measured on a scale of only four levels which can be seen as restrictive. We are also limited to the fact that they are self-reported scores and are not reliable as an actual measure of the mental health of these respondents. 
 
-4. Implications
+5. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
