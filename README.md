@@ -59,26 +59,27 @@ This project will not only highlight key factors linking digital behavior to men
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
-## Topic Description: Historical Climate Change Analysis
+### Topic Description: Digital Behavior and Its Impact on Mental Health
 
-### Topic Overview
+## Topic Overview
+Our project explores the intricate relationship between digital behavior on social media and its impact on mental health. The proliferation of digital platforms has transformed how we interact, obtain information, and perceive ourselves and others. However, the psychological effects of these changes are not fully understood. Our research aims to uncover patterns and consequences of social media usage that may affect mental health, drawing on existing studies and datasets to inform our analysis and conclusions.
 
-Our project focuses on the analysis of historical climate data, examining changes in temperature, precipitation, and extreme weather events over the past century. Climate change is a multifaceted issue that influences numerous environmental, economic, and social sectors. By analyzing historical data, we aim to identify significant trends that can provide insights into the broader impacts of climate change.
+## Related Work
 
-### Related Work
+1. **Twenge, J. M., Joiner, T. E., Rogers, M. L., & Martin, G. N. (2018). Increases in depressive symptoms, suicide-related outcomes, and suicide rates among U.S. adolescents after 2010 and links to increased new media screen time. *Journal of Abnormal Psychology*, 127(1), 6–17.**
+   - This study provides evidence linking increased screen time with rising rates of depression and suicide-related outcomes among adolescents. It highlights the potential dangers of excessive digital engagement.
+   - [Link to study](https://psycnet.apa.org/record/2017-56836-001)
 
-Several researchers and organizations have previously conducted studies and developed projects analyzing various aspects of historical climate change data. These works form a foundation for our project, providing methodologies, datasets, and insights that we can draw upon.
+2. **"How Does Social Media Affect Your Well-Being?" by Amy Orben (2019), published by *BBC Future*.**
+   - Orben discusses the complex ways in which social media can affect mental health, including issues related to self-esteem and social comparison. This article provides a balanced view, noting both the potential harms and benefits of social media usage.
+   - [BBC Future Article](https://www.bbc.com/future/article/20190104-how-much-is-social-media-affecting-your-real-life)
 
-1. **NASA’s Climate Change and Global Warming website** provides a comprehensive overview of climate change data, including temperature and precipitation changes over time. It hosts an extensive collection of resources, including visual data and scientific reports, which are instrumental for public understanding and educational purposes (NASA, 2021).
-   - [NASA Climate Change](https://climate.nasa.gov/)
+3. **Lin, L. Y., Sidani, J. E., Shensa, A., Radovic, A., Miller, E., Colditz, J. B., Hoffman, B. L., & Primack, B. A. (2016). Association between social media use and depression among U.S. young adults. *Depression and Anxiety*, 33(4), 323-331.**
+   - This research examines the association between social media use and depression among young adults in the U.S., suggesting that high levels of social media engagement can significantly increase the risk of developing depression.
+   - [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/da.22466)
 
-2. **"Global Temperature Change" by James Hansen et al.** (2010) offers an in-depth analysis of global temperature trends over the last century, utilizing data from multiple international datasets. This paper has been crucial in understanding temperature fluctuations and the role of anthropogenic factors in climate change.
-   - Hansen, J., Ruedy, R., Sato, M., & Lo, K. (2010). Global temperature change. Proceedings of the National Academy of Sciences, 107(39), 17101-17106. [Link to paper](https://www.pnas.org/content/107/39/17101)
 
-3. **"Quantifying the Influence of Climate on Human Conflict" by Solomon Hsiang et al.** (2013), published in *Science*, explores the relationship between climate variables like temperature and precipitation with human conflict over historical periods. This research provides a unique perspective on how climate change impacts social structures and security.
-   - Hsiang, S. M., Burke, M., & Miguel, E. (2013). Quantifying the influence of climate on human conflict. Science, 341(6151). [Link to paper](https://science.sciencemag.org/content/341/6151/1235367)
-
-These sources underscore the relevance and urgency of studying historical climate data to better predict and mitigate the impacts of climate change. By building on these foundational studies, our project aims to provide a more interactive and user-friendly approach to understanding these complex issues.
+These studies and articles provide a foundation for our research, offering insights into methodologies for data collection and analysis, as well as previous findings that we can build upon to further understand the relationship between social media usage and mental health. By integrating these perspectives, our project aims to contribute valuable new knowledge to this important field.
 
 
 3. The Dataset
