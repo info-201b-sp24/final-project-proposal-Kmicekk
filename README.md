@@ -14,7 +14,7 @@ Koh Micek (Kmicek@uw.edu), Austin Shin (joongsuk@uw.edu), Vitchayah Srisopaporn 
 Spring 2024
 ## Abstract
 
-Our main question is, how does the amount of social media usage affect the users mental health? This question is important because with the recent rise of social media users increasing, and the age of users become younger, having a bad mental health at a younger age can hinder their growth in a bad way. We deicided to touch on this topic, since social media usage has increased over the years, and we believe it will only keep on increasing, leading to more people with mental health issues, and the people with issues getting younger. 
+Our main question is, how does the amount of social media usage affect the user's mental health? This question is important because with the recent rise of social media users increasing, and the age of users becoming younger, having bad mental health at a younger age can hinder their growth in a bad way. We decided to touch on this topic since social media usage has increased over the years, and we believe it will only keep on increasing, leading to more people with mental health issues, and people with these mental health issues getting younger. 
 
 
 ## Keywords
